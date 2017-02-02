@@ -1,0 +1,1 @@
+0,30 * * * * /opt/bkkdownloader/bkk_info_downloader.sh
